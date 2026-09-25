@@ -45,11 +45,15 @@ Since 2021 I have mentored 19 undergraduate honours project and Masters’ thesi
 
 - Social events coordinator for ‘Microbial Evolution Research at Manchester’ (MERMan) group 2022-2024. 
 
-- Leadership team member R Users at the University of Manchester (RUM) group 2023-2025. <https://rumgroup.github.io/allaboutrum/>
+- Leadership team member R users at the University of Manchester (RUM) group 2023-2025. <https://rumgroup.github.io/allaboutrum/>
 
-- Peer-reviewer for PLOS Biology & Microbiology 
+- Peer-reviewer for Evolution Letters, PLOS Biology & Microbiology 
 
 # **Funding**
+
+- Killam Postdoc Fellowship, Evolution of Mutation Hotspots in Influenza, University of British Columbia, 05/2026 - 05/2028, \$120k CAD
+
+- BRC Biodiversity Postdoc Fellowship, Evolution of Mutation Hotspots in Influenza, University of British Columbia, 05/2026 - 05/2028, \$34k + 7k CAD
 
 - BBSRC DTP PhD studentship, ‘How ecological interactions shape mutation rates to antimicrobial resistance’, The University of Manchester, Dr Chris Knight, 09/2020 to 12/2024, £100k (£20k research funds + \~£18k annual stipend)
 
