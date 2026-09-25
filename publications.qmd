@@ -4,7 +4,9 @@ title: "Publications"
 
 # **Publications**
 
-First & Corresponding Author
+Full list on [google scholar](https://scholar.google.ca/citations?user=PJWobuYAAAAJ&hl=en&oi=ao)
+
+## First & Corresponding Author
 
 **Green R**, Richards H, Ozbilek D, Tyrrell F, Barton V, Zhang Z, Lovell SC, Gifford DR, Lagator M, McBain AJ, Krašovec R, Knight CG. Antimutator and mutational spectrum effects can combine to reduce evolutionary potential in Escherichia coli ΔnudJ. **Molecular Biology and Evolution**. 2025
 
@@ -14,13 +16,15 @@ This work shows that a single gene knockout can suppress spontaneous resistance 
 
 This work demonstrates the use of deep, population sequencing as an alternative method for microbial mutation rate estimation. This approach overcomes multiple drawbacks of existing methods for mutation rate estimation by combining the rapid, liquid-based features of fluctuation assays with the genome-wide nature of mutation accumulation assays. I led this cross-institution collaboration during a 3-month postdoc with Rok Krašovec, conducting all simulations, bioinformatic analyses, manuscript drafting and organising regular meetings between all authors. Associated data and code: https://osf.io/gztjk/
 
-First Author
+## First Author
 
 **Green R**, Wang H, Botchey C, Zhang SN, Wadsworth C, Tyrrell F, Letton J, McBain AJ, Paszek P, Krašovec R, Knight CG. Collective peroxide detoxification determines microbial mutation rate plasticity in E. coli. **Plos Biology**. 2024
 
 This study demonstrates the mechanism responsible for the inverse relationship between mutation rates and population density in observed in many microbial species. Using dynamical computational modelling and in culture mutation rate estimation, I show that the negative relationship between mutation rate and population density arises from the collective ability of microbial populations to control concentrations of hydrogen peroxide. Together, these model-guided experiments provide a mechanistic explanation for density associated mutation rate plasticity, applicable across all domains of life, and frame mutation rate as a dynamic trait shaped by microbial community composition. I carried out all mathematical modelling, collected the majority of experimental data, mentored 5 junior students to contribute experimental data, carried out all analyses and drafted all manuscript versions. Associated code and data at the publisher’s website
 
-Coauthor
+## Coauthor
+
+Jago MJ, **Green R**, Czernuszka MR, Denisov S, Krašovec R, Knight CG, Lagator M. Extended sequence context shapes mutational bias in Escherichia coli. **Proceedings of the National Academy of Sciences**. 2026 Jun 9;123(23):e2601345123.
 
 Warner E, Lewis OT, Brown N, **Green R**, McDonnell A, Gilbert D, Hector A. Does restoring native forest restore ecosystem functioning? Evidence from a large‐scale reforestation project in the Scottish Highlands. **Restoration Ecology**. 2022 Mar;30(3):e13530.
 
