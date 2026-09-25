@@ -1,0 +1,56 @@
+---
+title: "CV"
+engine: knitr
+---
+
+# **Dr Rowan Green**
+
+I am an evolutionary biologist interested the role of mutation rates and biases in pathogen evolution. I approach these questions with experimental, bioinformatic and quantitative tools. I am committed to collaboration and mentoring with extensive experience managing Bsc & Msc project students. 
+
+# **Professional experience**
+
+**May 2026 - Present** Killam & BRC Postdoctoral Fellow, UBC, Canada - Studying the nature and evolution of mutational hotspots for the 'viral cheat' phenotype in influenza
+
+**May 2025 - May 2026** Postdoctoral Fellow, UBC, Canada – Leeks lab – Characterisation of viral diversity in human samples of H3N2 & H1N1 influenza in relation to clinical outcomes
+
+**Jan 2025 to March 2025** Postdoctoral Research Associate, The University of Manchester, UK - Krašovec lab - Development of population sequencing based methods for the rapid estimation of microbial mutation rates  
+
+**Oct 2022 to Dec 2024** Graduate teaching assistant, The University of Manchester, UK, (Part time) – Workshop facilitation and grading for MSc & BSc modules ‘Reproducible Data Science’, ‘Statistics and Experimental Design’ and ‘Research Skills in Genetics’
+
+**April 2021 to Jan 2024** Tutor, The Brilliant Club charity, UK – Independent delivery of university style group tutorials to students aged 12-13 from backgrounds underrepresented in higher education
+
+**Jan 2022 to April 2022** Professional Intern, Animal & Plant Health Agency, UK - FAO AMR Reference Centre – Improvement and application of methods for quantifying multi-drug resistance plasmid conjugation rates in agricultural and environmental samples
+
+**Sept 2019 to Aug 2020** Program Manager, KEEN Oxford charity, UK – Management of events and volunteers. Creating inclusive social, sporting and artistic communities with people with additional needs
+
+# **Education**
+
+**Sept 2020 - Dec 2025** PhD in Ecology & Evolution, University of Manchester, UK - Knight lab - **How ecological interactions shape mutation rates to antimicrobial resistance** - Awarded 26th Feb 2025– Nominated for Postgraduate Researcher of the Year and Best Outstanding Research Output 
+
+**Oct 2016 - June 2019** BA Biological Sciences, First Class, University of Oxford, UK 
+
+Specialist modules: 'Social Evolution', 'Genome Evolution', 'Ecology & Evolution', 'Tropical Forest Ecology', 'Communication, Culture and Collective Behaviour' & 'Species Conservation'
+
+# **External Presentations**
+
+Oral presentations: The Social Lives of Viruses, Canada, 2026 (Best Talk Prize); Northern Bioinformatics Users’ Group + Yorkshire Universities Evolution Group, UK 2025 (Best Talk Prize); Population Genetics Group, UK 2022, 2023, 2025; Evolution Joint Congress, Canada 2024; Microbial Ecology & Evolution Hubs, Global with UK hub 2024; Microbiology Society meeting on Understanding & Predicting Microbial Evolutionary Dynamics, UK 2023; SMBE meeting on Prokaryote Genome Evolution, UK 2022
+
+Poster presentations: Influenza Update Meeting, UK, 2025; Microbiology Society meeting on Understanding & Predicting Microbial Evolutionary Dynamics, UK 2025; Society of Molecular Biology & Evolution (SMBE), Mexico 2024; European Society of Evolutionary Biology (ESEB), Czechia 2022
+
+# **Supervising and mentoring** 
+
+Since 2021 I have mentored 19 undergraduate honours project and Masters’ thesis students in the UK and Canada. I have supported project conceptualisation, experimental design, data acquisition, statistical analyses and project write up. I have coauthored publications with 7 of these students and have publications in prep with a further 5.
+
+# **Service**
+
+- Social events coordinator for ‘Microbial Evolution Research at Manchester’ (MERMan) group 2022-2024. 
+
+- Leadership team member R Users at the University of Manchester (RUM) group 2023-2025. <https://rumgroup.github.io/allaboutrum/>
+
+- Peer-reviewer for PLOS Biology & Microbiology 
+
+# **Funding**
+
+- BBSRC DTP PhD studentship, ‘How ecological interactions shape mutation rates to antimicrobial resistance’, The University of Manchester, Dr Chris Knight, 09/2020 to 12/2024, £100k (£20k research funds + \~£18k annual stipend)
+
+Last updated `r Sys.Date()`

@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rowan Green"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publications.qmd
+      - outreach.qmd
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true

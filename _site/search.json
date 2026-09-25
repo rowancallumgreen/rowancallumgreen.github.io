@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "about.html#about-things",
+    "href": "about.html#about-things",
+    "title": "about",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "about.html#running-code",
+    "href": "about.html#running-code",
+    "title": "about",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Rowan and I study the causes and consequences of mutations in microbes. Some mutations are more likely than others (mutational bias) and I’m interested in how these biases can drive evolution and how they themselves evolve. I’m currently a Killam & BRC postdoctoral fellow at the University of British Columbia where I am primarily working with Asher Leeks on various bioinformatics projects related to the evolution of ‘Viral Cheats’. This largely involves accessing public datasets of viral deep sequencing and using them to reconstruct within host viral populations, my main model systems are human and avian influenza. Prior to this bioinformatics postdoc I have been really lucky to dabble in a wide variety of systems and approaches with my PhD mainly consisting of wet lab microbiology and mathematical modelling, a research assistantship focussed on ecosystem surveying in reforested areas and an honours project surveying pollinators of non-native plants. I am passionate about prioritising reproducible science, mentoring and outreach in my scientific practice.\nThis website is produced with quarto and you can find the github repo here"
+  }
+]
