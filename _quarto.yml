@@ -10,7 +10,8 @@ website:
         text: Home
       - about.qmd
       - publications.qmd
-      - outreach.qmd
+      - href: outreach.qmd
+        text: Outreach
 
 format:
   html:

@@ -1,9 +1,7 @@
 ---
-title: "Outreach"
+title: "Public Engagement & Outreach"
 editor: visual
 ---
-
-# **Public engagement & outreach**
 
 - Activity facilitator at ‘Meeting the Microbes’ BRC outreach event at Vancouver Science World (2025)
 
