@@ -12,6 +12,7 @@ website:
       - publications.qmd
       - href: outreach.qmd
         text: Outreach
+      - Rthings.qmd
 
 format:
   html:

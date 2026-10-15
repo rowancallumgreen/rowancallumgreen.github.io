@@ -25,7 +25,7 @@ I am an evolutionary biologist interested the role of mutation rates and biases 
 
 # **Education**
 
-**Sept 2020 - Dec 2025** PhD in Ecology & Evolution, University of Manchester, UK - Knight lab - **How ecological interactions shape mutation rates to antimicrobial resistance** - Awarded 26th Feb 2025– Nominated for Postgraduate Researcher of the Year and Best Outstanding Research Output 
+**Sept 2020 - Dec 2025** PhD in Ecology & Evolution, University of Manchester, UK - Knight lab - **How ecological interactions shape mutation rates to antimicrobial resistance** - Awarded 26th Feb 2025
 
 **Oct 2016 - June 2019** BA Biological Sciences, First Class, University of Oxford, UK 
 
@@ -47,7 +47,7 @@ Since 2021 I have mentored 19 undergraduate honours project and Masters’ thesi
 
 - Leadership team member R users at the University of Manchester (RUM) group 2023-2025. <https://rumgroup.github.io/allaboutrum/>
 
-- Peer-reviewer for Evolution Letters, PLOS Biology & Microbiology 
+- Peer-reviewer for Evolution Letters, Molecular Biology and Evolution, PLOS Biology & Microbiology 
 
 # **Funding**
 

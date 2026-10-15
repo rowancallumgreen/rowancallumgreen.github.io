@@ -1,0 +1,55 @@
+---
+title: "R things"
+editor: visual
+bibliography: references.bib
+---
+
+# Here are some of my favourite r things:
+
+## Beepr [@beepr]
+
+This has loads of sounds which can be played in R. This can be especially useful if you're running slow code and want to be notified to come back to it once it's finished e.g.
+
+```{r}
+#| label: beepr
+#| eval: false
+#| echo: true
+
+library(beepr)
+Sys.sleep(100)#fake long code - sleep system for 100 seconds
+beepr::beep(sound=4)#work complete
+```
+
+Honourable mention also to [BRRR](https://github.com/brooke-watson/BRRR) inspired by beepr which plays even more sounds though seems to be hard to download these days
+
+## Magrittr [@magrittr]
+
+How did I live before the in-and-out or assignment pipe '%\<\>%'? Simple and beautiful, take an object, do something to it and put it back in the same place.
+
+```{r}
+#| eval: false
+#| echo: true
+#| label: magrittr
+
+library(magrittr)
+x<-1:5
+y<-2:6
+cbind(x,y)%>%as.data.frame()->data
+knitr::kable(data)
+  # |  x|  y|
+  # |--:|--:|
+  # |  1|  2|
+  # |  2|  3|
+  # |  3|  4|
+  # |  4|  5|
+  # |  5|  6|
+data%<>%dplyr::mutate(z=x+y)
+knitr::kable(data)
+  # |  x|  y|  z|
+  # |--:|--:|--:|
+  # |  1|  2|  3|
+  # |  2|  3|  5|
+  # |  3|  4|  7|
+  # |  4|  5|  9|
+  # |  5|  6| 11|
+```
