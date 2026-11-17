@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a202ed359b7240dcab911ed64cbd0efc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -123,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -132,6 +132,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Hi, I’m Rowan and I study the causes and consequences of mutations in microbes. Some mutations are more likely than others (mutational bias) and I’m interested in how these biases can drive evolution and how they themselves evolve. I’m currently a Killam &amp; BRC postdoctoral fellow at the University of British Columbia where I am primarily working with <a href="https://asherleeks.com/">Asher Leeks</a>.</p>
 <p>I am currently studying ‘<a href="https://www.nature.com/articles/s41467-021-27293-6">Viral Cheats</a>’ in influenza using publicly available sequencing of seasonal and avian influenza. Prior to this bioinformatics postdoc I have been really lucky to dabble in a wide variety of systems and approaches with my PhD mainly consisting of wet lab microbiology and mathematical modelling, a research assistantship focused on ecosystem surveying in reforested areas and an undergraduate honours project surveying pollinators of non-native plants. I am passionate about prioritising reproducible science, mentoring and outreach in my scientific practice.</p>
 <p>This website is produced with quarto and you can find the github repo <a href="https://github.com/rowancallumgreen/rowancallumgreen.github.io">here</a></p>
+<p>Contact: rowan.green@ubc.ca</p>
 
 
 
@@ -218,8 +219,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -330,7 +329,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

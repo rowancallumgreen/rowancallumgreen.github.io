@@ -58,3 +58,5 @@ Since 2021 I have mentored 19 undergraduate honours project and Masters’ thesi
 - BBSRC DTP PhD studentship, ‘How ecological interactions shape mutation rates to antimicrobial resistance’, The University of Manchester, Dr Chris Knight, 09/2020 to 12/2024, £100k (£20k research funds + \~£18k annual stipend)
 
 Last updated `r Sys.Date()`
+
+Contact: rowan.green@ubc.ca

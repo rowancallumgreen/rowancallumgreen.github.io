@@ -9,3 +9,5 @@ Hi, I’m Rowan and I study the causes and consequences of mutations in microbes
 I am currently studying '[Viral Cheats](https://www.nature.com/articles/s41467-021-27293-6)' in influenza using publicly available sequencing of seasonal and avian influenza. Prior to this bioinformatics postdoc I have been really lucky to dabble in a wide variety of systems and approaches with my PhD mainly consisting of wet lab microbiology and mathematical modelling, a research assistantship focused on ecosystem surveying in reforested areas and an undergraduate honours project surveying pollinators of non-native plants. I am passionate about prioritising reproducible science, mentoring and outreach in my scientific practice.
 
 This website is produced with quarto and you can find the github repo [here](https://github.com/rowancallumgreen/rowancallumgreen.github.io)
+
+Contact: rowan.green@ubc.ca
